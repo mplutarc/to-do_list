@@ -4,7 +4,8 @@
 
 Vue js
 
-Скриншоты готового задания: 
+Скриншоты готового задания:   
+
 ![image](https://user-images.githubusercontent.com/47104132/124359685-b482a800-dc2e-11eb-9852-5ef5d33f7faf.png)
 ![image](https://user-images.githubusercontent.com/47104132/124359717-d4b26700-dc2e-11eb-83a0-ce0b6c20658e.png)
 
